@@ -3,12 +3,12 @@ This is a collection of Macros I've compiled for use with the JB2A Animations Pa
 
 Credit goes to the following for helping with many of these:
 - JB2A (check them out on Patreon: https://www.patreon.com/JB2A/posts )
-- FXMaster
 - Kandashi (Check out Kandashi's highly effective modules such as Next Up, DAE SRD, Active Auras, and more!. (https://www.patreon.com/Kandashi/posts)
 - Lazytron
 - Crymic (Check out some incredible macros https://www.patreon.com/crymic)
 - Freeze
 - Enso
+- FXMaster
 - and many others
 
 # Installation
