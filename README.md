@@ -11,7 +11,7 @@ Credit goes to the following for helping with many of these:
 - Enso
 - and many others
 
-##Installation
+## Installation
 
 99% of these macros will function with just Midi-Qol, JB2A Patreon module and FXMaster. The Furnace is suggested, and I will be uploading a new compendium in the following week that utilizes Midi-Qol automation to help run the animations.
 
