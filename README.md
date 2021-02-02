@@ -11,6 +11,8 @@ Credit goes to the following for helping with many of these:
 - Enso
 - and many others
 
+##Installation
+
 99% of these macros will function with just Midi-Qol, JB2A Patreon module and FXMaster. The Furnace is suggested, and I will be uploading a new compendium in the following week that utilizes Midi-Qol automation to help run the animations.
 
 The Compendiums in this module are separated as such:
@@ -35,8 +37,8 @@ Bare Minimum Instructions for use:
 
 3. Import whichever macro you would like to use into your world.
 
-4. Add the name of the macro you would like to use into the "On Use Macro" field. This MUST match exactly the name of the macro. I suggest copy/pasting from the macro to ensure no errors are made.
+4. Add the name of the macro you would like to use in the "On Use Macro" field. This MUST match exactly the name of the macro (case sensitive). I suggest copy/pasting from the macro to ensure no errors are made.
 
 Now you're ready to go!
 
-Whenver you use the item/spell, it will call the macro once the damage is rolled. For 99% of these, you will need to have a target(s) Targeted, and the casting/hitting token Selected.
+Whenver you use the item/spell, it will call the macro once the damage is rolled. For 99% of these, you will need to have a target(s) Targeted, and the casting/hitting token Selected. Some have options to play the animation on the "selected" token instead of the targeted token, such as the Explosions in the Misc Compendium.
