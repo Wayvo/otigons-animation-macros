@@ -37,7 +37,10 @@ For further fun I have added the following to all of the macros:
 
 2. Token Magic FX: I have added in some fun Token Magic FX (requires module) that can be activated to give more 'oomph' to the effects. I left these inactive for now, but may activate them on a later release depending on feedback. They really are fun!
 
-## Instructions
+## How to Use these Macros
+
+Most every macro can be used without attaching it to an item/spell. They can sit in the macro bar and be used at-will.
+For use in conjuction with an item/spell, instructions are as follows:
 
 Bare Minimum Instructions for use:
 **NOTE** 1st check out the Tutorial video by JB2A that gives a good run down of how to use these types of macros: https://www.youtube.com/watch?v=264xZJjPHD8 
