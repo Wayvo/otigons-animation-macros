@@ -6,7 +6,7 @@
     "author": "Otigon",
     "url": "https://github.com/otigon/JB2A-Animation-Macros",
     "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion": "0.7.9"
+    "compatibleCoreVersion": "0.7.9",
     "packs": [
         {
             "name": "spell-animations",
