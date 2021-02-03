@@ -69,6 +69,14 @@ In almost every macro there is a section for adding Token Magic FX. This is note
 
 
 To activate the code, delete the /\*  at the start of the code, and then the \*/ at the end.
-For example:
+For example you would delete the start of the comment out:
 
-![Alt text](pictures/ActivateSound01.PNG)
+![Alt text](pictures/ActivateTMFX01.PNG)
+
+Next you need to look for the end comment after the TMFX Code and delete that as well
+
+![Alt text](pictures/ActivateTMFX02.PNG)
+
+A few macros also have additional inactive code at the end that will need to be activated for TMFX. This will remove the effects after a duration
+
+![Alt text](pictures/ActivateTMFX03.PNG)
