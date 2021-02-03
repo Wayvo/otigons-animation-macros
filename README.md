@@ -69,3 +69,6 @@ In almost every macro there is a section for adding Token Magic FX. This is note
 
 
 To activate the code, delete the /\*  at the start of the code, and then the \*/ at the end.
+For example:
+
+![Alt text]
