@@ -1,4 +1,4 @@
-# foundry-animation-macros
+# otigons-animation-macros
 This is a collection of Macros I've made for use with the JB2A Animations Patreon Module. These are based on the D&D 5e system, but can be used for other systems as well.
 
 Credit goes to the following for helping with many of these:
