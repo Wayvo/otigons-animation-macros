@@ -1,0 +1,51 @@
+{
+    "name": "otigons_animation_macros",
+    "title": "Otigons Animation Macros",
+    "description": "This is a collection of Macros to utilize JB2A Animations.",
+    "version": "0.1",
+    "author": "Otigon",
+    "packs": [
+        {
+            "name": "spell-animations",
+            "label": "Spell Animations",
+            "path": "packs/macros-smcr.db",
+            "entity": "Macro",
+            "module": "otigons_animation_macros"
+
+        },
+        {
+            "name": "ranged-weapon-attacks",
+            "label": "Ranged Weapon Attacks",
+            "path": "packs/macros-rwak.db",
+            "entity": "Macro",
+            "module": "otigons_animation_macros"
+        },
+        {
+            "name": "melee-weapon-attacks",
+            "label": "Melee Weapon Attacks",
+            "path": "packs/macros-mwak.db",
+            "entity": "Macro",
+            "module": "otigons_animation_macross"
+        },
+        {
+            "name": "explosions",
+            "label": "Explosions",
+            "path": "packs/boom.db",
+            "entity": "Macro",
+            "module": "otigons_animation_macross"
+        },
+        {
+            "name": "misc-macros",
+            "label": "Miscelaneous Macros",
+            "path": "packs/macros-mmcr.db",
+            "entity": "Macro",
+            "module": "otigons_animation_macros"
+        }
+    ],
+    "url": "https://github.com/otigon/JB2A-Animation-Macros",
+    "manifest": "https://raw.githubusercontent.com/foundry-vtt-community/macros/master/module.json",
+    "download": "https://github.com/otigon/JB2A-Animation-Macros/archive/v0.1.zip",
+    "socket": true,
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.7.9"
+}
