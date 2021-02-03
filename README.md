@@ -60,3 +60,10 @@ Bare Minimum Instructions for use:
 Now you're ready to go!
 
 Whenver you use the item/spell, it will call the macro once the damage is rolled. **For 99% of these, you will need to have a target(s) Targeted, and the casting/hitting token Selected**. Some have options to play the animation on the "selected" token instead of the targeted token, such as the Explosions in the Explosions Compendium.
+
+## How to Activate Sounds or TMFX codes
+
+In almost every macro there is a section for adding Token Magic FX. This is noted at the start of the inactive code by something like: Delete comments to activate Token Magic FX code. This does requires the TMFX module to be installed and activated.
+
+
+To activate the code, delete the (/*) at the start, and then the (*/) at the end.
