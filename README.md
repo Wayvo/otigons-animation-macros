@@ -18,7 +18,7 @@ To install this module manually:
 
 1. Inside the Foundry "Configuration and Setup" screen, click "Add-on Modules"
 2. Click "Install Module"
-3. In the "Manifest URL" field (bottom) paste the following url:
+3. In the "Manifest URL" field (bottom) paste the following url: https://github.com/otigon/otigons-animation-macros/releases/latest/download/module.json
 4. Click "Install" and wait for installation to complete
 5. Don't forget to enable the module in game using the "Manage Module" button
 
