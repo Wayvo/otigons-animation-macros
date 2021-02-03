@@ -4,6 +4,9 @@
     "description": "This is a collection of Macros to utilize JB2A Animations.",
     "version": "0.1",
     "author": "Otigon",
+    "url": "https://github.com/otigon/JB2A-Animation-Macros",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.7.9"
     "packs": [
         {
             "name": "spell-animations",
@@ -42,10 +45,6 @@
             "module": "otigons_animation_macros"
         }
     ],
-    "url": "https://github.com/otigon/JB2A-Animation-Macros",
     "manifest": "https://raw.githubusercontent.com/foundry-vtt-community/macros/master/module.json",
     "download": "https://github.com/otigon/JB2A-Animation-Macros/archive/v0.1.zip",
-    "socket": true,
-    "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion": "0.7.9"
 }
