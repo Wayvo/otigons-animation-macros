@@ -26,7 +26,8 @@ The Compendiums in this module are separated as such:
 1. Spell Animations
 2. Ranged Weapon Attacks
 3. Melee Weapon Attacks
-4. Miscellaneous
+4. Explosions
+5. Miscellaneous
 
 ## Fun Add-Ons
 
