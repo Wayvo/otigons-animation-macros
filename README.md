@@ -63,7 +63,9 @@ Whenver you use the item/spell, it will call the macro once the damage is rolled
 
 ## How to Activate Sounds or TMFX codes
 
+In progress
+
 In almost every macro there is a section for adding Token Magic FX. This is noted at the start of the inactive code by something like: Delete comments to activate Token Magic FX code. This does requires the TMFX module to be installed and activated.
 
 
-To activate the code, delete the (/*) at the start, and then the (*/) at the end.
+To activate the code, delete the  at the start, and then the  at the end.
