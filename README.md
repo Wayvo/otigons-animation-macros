@@ -12,12 +12,15 @@ Credit goes to the following for helping with many of these:
 - and many others
 
 # Installation
+Currently this will only be availble thru manual installation. I have no current plans to issue this through Foundry
 
-Paste the link to the module.json file into the 'Manifest URL' field in 'Install Module'.
+To install this module manually: 
 
-*link here* 
-
-Or download the latest zip file here: *link here*
+1. Inside the Foundry "Configuration and Setup" screen, click "Add-on Modules"
+2. Click "Install Module"
+3. In the "Manifest URL" field (bottom) paste the following url:
+4. Click "Install" and wait for installation to complete
+5. Don't forget to enable the module in game using the "Manage Module" button
 
 ## About the Macros
 99% of these macros will function with just **Midi-Qol**, **JB2A Patreon module** and **FXMaster**. The Furnace is suggested, and I will be uploading a new compendium in the following week that utilizes Midi-Qol automation to help run the animations.
