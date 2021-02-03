@@ -80,3 +80,14 @@ Next you need to look for the end comment after the TMFX Code and delete that as
 A few macros also have additional inactive code at the end that will need to be activated for TMFX. This will remove the effects after a duration
 
 ![Alt text](pictures/ActivateTMFX03.PNG)
+
+
+#### SOUNDS
+
+To activate sounds, find the sound section in the code. This is usually before the Token Magic FX code. Activate by removing the comment marks as described above.
+
+![Alt text](pictures/ActivateSound01.PNG)
+
+Also, some have an option to use multiple sounds to randomize what is played each time the item is rolled:
+
+![Alt text](pictures/ActivateSound02.PNG)
