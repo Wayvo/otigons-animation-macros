@@ -32,6 +32,12 @@ The Compendiums in this module are separated as such:
 4. Explosions
 5. Miscellaneous
 
+These are all written for the Patreon version of JB2A. To use with the Free module version, you'll need to edit the macro to point to the correct folders. Usually this is written like:
+
+let file = "modules/jb2a_patreon/......
+
+Just change the jb2a_patreon to the file name for the free version and you're good to go
+
 ## Fun Add-Ons
 
 For further fun I have added the following to all of the macros:
