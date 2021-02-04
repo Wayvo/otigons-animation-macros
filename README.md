@@ -1,6 +1,11 @@
 ## UPDATE NOTES
 0.0.3
 1. Fixed a mistake in some of the macros where a line of code was ommited that played the animations on all clients. This is fixed in 0.0.3.
+  Unfortunately, this means if you've imported alot of these macros into your world you will need to do 1 of 2 things to fix:
+  a. Delete the in-world macro and reimport from the compendium
+  b. Copy paste all the update macro into the already imported one
+  
+  Appologies for the inconvenience to those who have already imported these and done customization. But if this is the case, let me know and I can show you the code I fixed and you can just add it to your existing macros.
 
 2. Also, I noticed an issue I failed to test with the Token Magic FX code in these macros. Players are not able to apply the TMFX filters, only the GM. I am working on a fix for this and will push a release when I find it.
 
