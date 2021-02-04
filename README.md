@@ -1,3 +1,12 @@
+## UPDATE NOTES
+0.0.3
+1. Fixed a mistake in some of the macros where a line of code was ommited that played the animations on all clients. This is fixed in 0.0.3.
+
+2. Also, I noticed an issue I failed to test with the Token Magic FX code in these macros. Players are not able to apply the TMFX filters, only the GM. I am working on a fix for this and will push a release when I find it.
+
+3. Witchbolt macros have been updated for better implementation of loops
+
+
 # otigons-animation-macros
 This is a collection of Macros I've made for use with the JB2A Animations Patreon Module. These are based on the D&D 5e system, but can be used for other systems as well.
 
