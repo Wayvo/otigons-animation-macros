@@ -87,6 +87,7 @@ In progress
 
 In almost every macro there is a section for adding Token Magic FX. This is noted at the start of the inactive code by something like: Delete comments to activate Token Magic FX code. This does requires the TMFX module to be installed and activated.
 
+**NOTE** You will need to enable "Permissive Mode" from the Token Magic FX module settings to allow players to apply the TMFX filters
 
 To activate the code, delete the /\*  at the start of the code, and then the \*/ at the end.
 For example you would delete the start of the comment out:
