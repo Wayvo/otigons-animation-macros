@@ -16,8 +16,8 @@
 This is a collection of Macros I've made for use with the JB2A Animations Patreon Module. These are based on the D&D 5e system, but can be used for other systems as well.
 
 Credit goes to the following for helping with many of these:
-- JB2A (check them out on Patreon: https://www.patreon.com/JB2A/posts )
-- Kandashi (Check out Kandashi's highly effective modules such as Next Up, DAE SRD, Active Auras, and more!. (https://www.patreon.com/Kandashi/posts)
+- JB2A (check them out on Patreon: https://www.patreon.com/JB2A )
+- Kandashi (Check out Kandashi's highly effective modules such as Next Up, DAE SRD, Active Auras, and more!. (https://www.patreon.com/Kandashi)
 - Lazytron
 - Crymic (Check out some incredible macros https://www.patreon.com/crymic)
 - Freeze
