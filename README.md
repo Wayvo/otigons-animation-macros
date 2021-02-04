@@ -23,6 +23,7 @@ Credit goes to the following for helping with many of these:
 - Freeze
 - Enso
 - FXMaster
+- Token Magic FX
 - and many others
 
 # Installation
