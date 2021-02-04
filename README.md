@@ -7,7 +7,7 @@
   
   Appologies for the inconvenience to those who have already imported these and done customization. But if this is the case, let me know and I can show you the code I fixed and you can just add it to your existing macros.
 
-2. Also, I noticed an issue I failed to test with the Token Magic FX code in these macros. Players are not able to apply the TMFX filters, only the GM. I am working on a fix for this and will push a release when I find it.
+2. Also, I noticed an issue I failed to test with the Token Magic FX code in these macros. You will need to enable the "Permissive Mode" in the TMFX Module settings. This enables players to apply TMFX filters
 
 3. Witchbolt macros have been updated for better implementation of loops
 
