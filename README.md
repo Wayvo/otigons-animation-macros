@@ -40,6 +40,8 @@ Tutorial PDF for these 3 new macros:
 
 [embed]PDF/On-Use Only Macro Compendium Tutorial.pdf[/embed]
 
+<a href="https://github.com/otigon/otigons-animation-macros/blob/main/PDF/On-Use%20Only%20Macro%20Compendium%20Tutorial.pdf" alt=""></a>
+
 # otigons-animation-macros
 This is a collection of Macros I've made for use with the JB2A Animations Patreon Module. These are based on the D&D 5e system, but can be used for other systems as well.
 
