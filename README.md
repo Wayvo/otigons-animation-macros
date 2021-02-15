@@ -38,8 +38,6 @@
 
 Tutorial PDF for these 3 new macros:
 
-[embed]PDF/On-Use Only Macro Compendium Tutorial.pdf[/embed]
-
 <a href="https://github.com/otigon/otigons-animation-macros/blob/main/PDF/On-Use%20Only%20Macro%20Compendium%20Tutorial.pdf" alt=""></a>
 
 # otigons-animation-macros
