@@ -2,7 +2,7 @@
     "name": "otigons_animation_macros",
     "title": "Otigons Animation Macros",
     "description": "This is a collection of Macros to utilize JB2A Animations.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Otigon",
     "url": "https://github.com/otigon/JB2A-Animation-Macros",
     "minimumCoreVersion": "0.7.5",
@@ -43,8 +43,15 @@
             "path": "packs/macros-mmcr.db",
             "entity": "Macro",
             "module": "otigons_animation_macros"
+        },
+        {
+            "name": "on-use-only-macros",
+            "label": "On-Use Only Macros",
+            "path": "packs/macros-ouomcr.db",
+            "entity": "Macro",
+            "module": "otigons_animation_macros"
         }
     ],
     "manifest":  "https://github.com/otigon/otigons-animation-macros/releases/latest/download/module.json",
-    "download": "https://github.com/otigon/otigons-animation-macros/releases/download/0.0.3/otigons-animation-macros-0.0.3.zip"
+    "download": "https://github.com/otigon/otigons-animation-macros/releases/download/0.0.4/otigons-animation-macros-0.0.4.zip"
 }
