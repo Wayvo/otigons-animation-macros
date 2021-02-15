@@ -36,9 +36,8 @@
    3. AllRangedWeaponsMacro
       Works for all the ranged weapon attacks just like the Melee
 
-Tutorial PDF for these 3 new macros:
-
-<a href="https://github.com/otigon/otigons-animation-macros/blob/main/PDF/On-Use%20Only%20Macro%20Compendium%20Tutorial.pdf" alt=""></a>
+I've created a quick PDF tutorial for how to use the 3 big macros in the new compendium. Check it out here:
+https://github.com/otigon/otigons-animation-macros/blob/main/PDF/On-Use%20Only%20Macro%20Compendium%20Tutorial.pdf
 
 # otigons-animation-macros
 This is a collection of Macros I've made for use with the JB2A Animations Patreon Module. These are based on the D&D 5e system, but can be used for other systems as well.
