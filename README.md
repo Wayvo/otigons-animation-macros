@@ -1,15 +1,37 @@
 ## UPDATE NOTES
-0.0.3
-1. Fixed a mistake in some of the macros where a line of code was ommited that played the animations on all clients. This is fixed in 0.0.3.
-  Unfortunately, this means if you've imported alot of these macros into your world you will need to do 1 of 2 things to fix:
-  a. Delete the in-world macro and reimport from the compendium
-  b. Copy paste all the update macro into the already imported one
-  
-  Appologies for the inconvenience to those who have already imported these and done customization. But if this is the case, let me know and I can show you the code I fixed and you can just add it to your existing macros.
+0.1.0
+1. I've fixed all of the macros for the new naming convention adopted by JB2A.
 
-2. Also, I noticed an issue I failed to test with the Token Magic FX code in these macros. You will need to enable the "Permissive Mode" in the TMFX Module settings. This enables players to apply TMFX filters
+2. I fixed the typo in the Thunderwave Macro
+ 
+3. New macros to cover all the great new colors in the latest JB2A release for melee weapons
 
-3. Witchbolt macros have been updated for better implementation of loops
+4. Added a new Compendium: On-Use Only Macros
+   
+   The macros in this new compendium will NOT work from the macro bar. They are only for use with the On-Use macro field from Midi-QOL.
+   Requires: Token Magic FX, FX Master, Midi-QOL, The Furnace
+   
+   These new macros read the Item Name and Source Field for each item using it.
+   
+   Example:
+   
+   AllMeleeAttacks is the macro we will use. Use this as the On-Use Macro. When activated it will parse the Name and Source information for that item to pull the correct animation. Let's use a Greataxe as an example:
+   
+   
+   Here you see the name Greataxe is in the Name field, and I've put Purple into the source field. When I attack with the weapon it will activate the Purple Greataxe animation.
+   Had I left the source field blank, it would use the standard Greataxe animation.
+   
+   
+   The SAME goes for all macros in this compendium.
+   
+   1. AllAttackSpells
+      Works for: Fire Bolt, Ray of Frost, Witch Bolt, Scorching Ray, Disintegrate
+      For these, just put the color you want in the source field since it will recognize the spell name
+   2. AllMeleeAttacks
+      Works for all released JB2A melee animations. Use either the Name or Source field to use what animation you want.
+      Such as: Sword Blue, Mace Red, Handaxe green, etc etc
+   3. AllRangedWeaponsMacro
+      Works for all the ranged weapon attacks just like the Melee
 
 
 # otigons-animation-macros
