@@ -13,10 +13,13 @@
    
    These new macros read the Item Name and Source Field for each item using it.
    
+   ![Alt text](pictures/NameAndSource.PNG)
+   
    Example:
    
    AllMeleeAttacks is the macro we will use. Use this as the On-Use Macro. When activated it will parse the Name and Source information for that item to pull the correct animation. Let's use a Greataxe as an example:
    
+    ![Alt text](pictures/NameAndSourceExample.PNG)
    
    Here you see the name Greataxe is in the Name field, and I've put Purple into the source field. When I attack with the weapon it will activate the Purple Greataxe animation.
    Had I left the source field blank, it would use the standard Greataxe animation.
