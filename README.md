@@ -2,10 +2,10 @@ Compatibilty issue with the About Face module and Melee attack animations. Melee
 
 **Implement at your own risk**
 
-change line 133 from:
-effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effectData.anchor.x) * tok2width;
-to
-effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effectData.anchor.x) * tok2.data.width * canvas.grid.size;
+change line 133 from:  
+effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effectData.anchor.x) * tok2width;  
+to  
+effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effectData.anchor.x) * tok2.data.width * canvas.grid.size;  
 
 Thanks Kandashi for finding the problem and solution.
 
