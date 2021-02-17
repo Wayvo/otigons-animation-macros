@@ -1,3 +1,14 @@
+Compatibilty issue with the About Face module and Melee attack animations. Melee attack animations utilize the drawTowards function from FX Master, and About Face mars up the token size. I'll log an issue with FX Master to see if this can be fixed. In the meantime, if you want to fix this on your game you can make the following change in the FXMasterLayer.js file:
+
+**Implement at your own risk**
+
+change line 133 from:
+effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effectData.anchor.x) * tok2width;
+to
+effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effectData.anchor.x) * tok2.data.width * canvas.grid.size;
+
+Thanks Kandashi for finding the problem and solution.
+
 ## UPDATE NOTES
 0.1.0
 1. I've fixed all of the macros for the new naming convention adopted by JB2A.
