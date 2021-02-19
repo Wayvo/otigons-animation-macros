@@ -18,7 +18,7 @@ and change it to:
 var myStringArray = lastArg.hitTargets;
 
 ## UPDATE NOTES
-0.1.2
+0.1.3
 1. Added a check and switch to all macros that are also available in the Free JB2A module, so free users don't have to modify anything to get them to run. This includes all macros in the "On-Use Only Macro" compendium
 
 2. AllMeleeAttacks Macro:
