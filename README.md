@@ -9,6 +9,14 @@ effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effect
 
 Thanks Kandashi for finding the problem and solution.
 
+Additionally, you have the option for the macros in the "On-Use Only Macro" compendium to always have the animations play, or to only play on hits. Currently they are all set to play on every attack. If you would like to change them to ONLY play on Hits, find this line about 2/3 down in the macros:  
+
+var myStringArray = lastArg.targets;
+
+and change it to:
+
+var myStringArray = lastArg.hitTargets;
+
 ## UPDATE NOTES
 0.1.2
 1. Added a check and switch to all macros that are also available in the Free JB2A module, so free users don't have to modify anything to get them to run. This includes all macros in the "On-Use Only Macro" compendium
