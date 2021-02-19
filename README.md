@@ -10,8 +10,40 @@ effectData.distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY) - (1 - effect
 Thanks Kandashi for finding the problem and solution.
 
 ## UPDATE NOTES
-0.1.0
-1. I've fixed all of the macros for the new naming convention adopted by JB2A.
+0.1.2
+1. Added a check and switch to all macros that are also available in the Free JB2A module, so free users don't have to modify anything to get them to run. This includes all macros in the "On-Use Only Macro" compendium
+
+2. AllMeleeAttacks Macro:
+
+- Changed code so your token doesn't need to be selected when attacking
+- Removed Dagger, Handaxe and Spear (moved to Melee-Range-Switch macro)
+- Add check on actor for the Improved Divine Smite feature, and activates a small blue explosion on hit if found
+
+3. AllRangedWeapons Macro:
+
+- Removed Dagger, Handaxe and Spear (moved to Melee-Range-Switch macro)
+
+4. Melee-Range-Switch Macro:
+
+- Fully updated for use with the Dagger (all 3 thrown variants), Handaxe and Spear with TMFX.
+
+5. AllAttackSpells:
+
+- Added a save check, so spells in this macro that require a save will not play Token Magic FX on a successful save
+
+Updated the PDF tutorial for using the following macros:
+1. AllMeleeAttacks
+2. AllRangedWeapons
+3. Melee-Range-Switch
+4. AllAttackSpells
+5. AllCreatureAttacks
+
+Moving forward, I'll still be updating macros as needed and adding new ones for future releases of JB2A content. However, I'm working on a separate module now that will run all this silly stuff from the background without needing to go and add macros to all of the items. If anyone wants to help alpha test it let me know and I'll get you the info, it should be ready for testing mid next week.
+
+
+0.1.1
+
+2. I've fixed all of the macros for the new naming convention adopted by JB2A.
 
 2. I fixed the typo in the Thunderwave Macro
  
