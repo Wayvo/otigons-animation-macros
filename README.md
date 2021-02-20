@@ -40,11 +40,11 @@ var myStringArray = lastArg.hitTargets;
 - Added a save check, so spells in this macro that require a save will not play Token Magic FX on a successful save
 
 Updated the PDF tutorial for using the following macros:
-1. AllMeleeAttacks
-2. AllRangedWeapons
-3. Melee-Range-Switch
-4. AllAttackSpells
-5. AllCreatureAttacks
+1. AllMeleeAttacks: All Melee Weapon attacks by JB2A
+2. AllRangedWeapons: All Ranged Weapon attacks by JB2A
+3. Melee-Range-Switch: All Melee/Range Weapons by JB2A (Dagger01, Dagger02, Kunai, Handaxe, Spear). Switches between melee and range based on distance to target
+4. AllAttackSpells: All Attack Spells by JB2A minus Magic Missiles
+5. AllCreatureAttacks: Bite and Claw attacks by JB2A
 
 Moving forward, I'll still be updating macros as needed and adding new ones for future releases of JB2A content. However, I'm working on a separate module now that will run all this silly stuff from the background without needing to go and add macros to all of the items. If anyone wants to help alpha test it let me know and I'll get you the info, it should be ready for testing mid next week.
 
