@@ -19,7 +19,9 @@ var myStringArray = lastArg.hitTargets;
 
 ## UPDATE NOTES
 0.1.3
-1. Added a check and switch to all macros that are also available in the Free JB2A module, so free users don't have to modify anything to get them to run. This includes all macros in the "On-Use Only Macro" compendium
+**NOTE** Moved the Token Magic effects around on some of the code so if you're using it to apply to Hit Targets, or not play on misses, it won't apply the Token Magic FX if the animation doesn't play
+
+2. Added a check and switch to all macros that are also available in the Free JB2A module, so free users don't have to modify anything to get them to run. This includes all macros in the "On-Use Only Macro" compendium
 
 2. AllMeleeAttacks Macro:
 
